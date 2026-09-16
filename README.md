@@ -1,5 +1,4 @@
 # Disease Prediction from Medical Data
-
 This repository contains a Machine Learning pipeline that predicts disease outcomes using structured clinical datasets.
 
 ## Key Features
