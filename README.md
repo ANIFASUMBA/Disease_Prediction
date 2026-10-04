@@ -8,7 +8,6 @@ This repository contains a Machine Learning pipeline that predicts disease outco
 - Interactive UI: Web interface built with Gradio for real-time model testing.
 - Virtual Analysis.
 - Model Interpretability
-
 ## Tech Stack
 
 - Python, Scikit-Learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn, Gradio
